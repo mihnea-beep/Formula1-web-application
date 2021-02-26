@@ -21,7 +21,7 @@ Power and names (grouped by the company)
 A mechanic can search, add, modify and delete components accordingly
 ![comp](./pictures/componentsmenu.png)
 ## Add component
-The user can add engines and tires.
+The user can add engines and tires (depending on the submitted component choice)
 ![comp](./pictures/addengine.png)
 ## Search component
 ![comp](./pictures/findengine.png)
@@ -31,9 +31,12 @@ The user can add engines and tires.
 The amount of tire sets each company has (of each kind)
 ![comp](./pictures/logistics1.png)
 
+## Diagram & Tables
 
-## Tables
+### Diagram
+![comp](./pictures/diagram.png)
 
+### Tables
 The database is comprised of the following tables:
 
 - Pilots
