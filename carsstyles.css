@@ -1,0 +1,79 @@
+			body{
+				background-color: #AAAAAA;
+				border: 1px solid black;
+				padding-top: 50px;
+				padding-bottom: 700px;
+				font-size: 20px;
+			}
+			
+			p{
+				font-size: 25px;
+			}
+			
+			.header {
+				padding:
+				font-size: 25px;
+			}
+			#table {
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 40%;
+}
+
+#table td, #table th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+#table tr:nth-child(even){background-color: #f2f2f2;}
+
+#table tr:hover {background-color: #ddd;}
+
+#table th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #4CAF50;
+  color: white;
+}
+		.backbutton button{
+		width: 100px;
+		height: 50px;
+		clear: both;
+		font-size: 25px;
+		
+	}
+		.componentsbutton button{
+		width: 160px;
+		height: 50px;
+		clear: both;
+		font-size: 25px;
+		
+		
+	}
+	
+		
+	
+		.submitbutton input{
+		width: 100px;
+		height: 50px;
+		clear: both;
+		font-size: 25px;
+		
+		
+		
+	}
+	
+	.companychoice{
+		
+		font-size: 25px;
+		clear: both;
+		padding-left: 20px;
+		
+	}
+	
+	optgroup{
+		
+		font-size: 15px;
+		
+	}

@@ -1,0 +1,40 @@
+ul {
+  list-style-type: none;
+  padding: 0;
+  border: 1px solid #ddd;
+}
+
+ul li {
+  padding: 8px 16px;
+  border-bottom: 1px solid #ddd;
+}
+
+ul li:last-child {
+  border-bottom: none
+}
+
+body{
+				background-color: #AAAAAA;
+				border: 1px solid black;
+				padding-top: 50px;
+				padding-bottom: 700px;
+				font-size: 25px;
+			}
+			
+			p{
+				font-size: 25px;
+			}
+			
+			.header {
+				padding:
+				font-size: 25px;
+			}
+			
+
+	.backbutton button{
+		width: 100px;
+		height: 50px;
+		clear: both;
+		font-size: 25px;
+		
+	}

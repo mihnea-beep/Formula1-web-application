@@ -1,0 +1,38 @@
+
+	body{
+		background-color: #AAAAAA;
+		border: 1px solid black;
+		padding-top: 50px;
+		padding-bottom: 200px;
+	}
+	
+	p{
+		font-size: 25px;
+	}
+	
+	.header {
+		padding:
+		font-size: 25px;
+	}
+	
+	.logout {
+		font-size: 25px;
+	}
+	
+	.logoutbutton button{
+		width: 100px;
+		height: 50px;
+		clear: both;
+		font-size: 25px;
+		
+	}
+	
+	.cars button{
+	width: 115px;
+	height: 50px;
+	clear: both;
+	font-size: 25px;
+	
+}
+	
+	
