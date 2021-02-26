@@ -8,7 +8,7 @@ Users can create an account and, depending on their type of access, can view, so
 
 ## Features
 # Login page
-!["login page"](pictures\login.png) 
+!["login page"](pictures/login.png) 
 
 ## Tables
 
