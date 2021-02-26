@@ -6,9 +6,22 @@ The application can be scaled and used by a variety of employees who work within
 
 Users can create an account and, depending on their type of access, can view, sort (by different criteria) and modify data (regarding cars, components, teams, budgets).
 
-## Features
+## Some of the features
 # Login page
-![comp](./pictures/componentsmenu.png) 
+![comp](./pictures/login.png)
+# Menu
+![comp](./pictures/menu.png)
+# Data about cars
+Power and names (grouped by the company)
+![comp](./pictures/cars.png)
+# Car component editor
+A mechanic can search, add, modify and delete components accordingly
+![comp](./pictures/componentsmenu.png)
+# Add component
+The user can add engines and tires.
+![comp](./pictures/addengine.png)
+# Search component
+![comp](./pictures/findengine.png)
 
 ## Tables
 
